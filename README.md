@@ -7,7 +7,7 @@
 ## Works
 - [iii Exhibition 2022 official website](https://iiiexhibition.com/) (Nuxt.js)
   - media art exhibition hosted by University of Tokyo III/GSII
-- Ichiyo(一葉)
+- [一葉(Ichiyo)](https://iiiexhibition.com/#work4)
   - exhibited as a part of iii Exhibition 2022, with four members
 
 ## GitHub Stats
