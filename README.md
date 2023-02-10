@@ -5,6 +5,10 @@
 - Interested in data visualization, AR, IoT
 
 ## Works
+- AgriAR (Pilot System)
+  - AR system that visualize the current growth of your greenhouse plants, and show a desirable plant sample immersively in 3D
+  - Microsoft HoloLens 2, Unity
+  - as my Senior thesis
 - [iii Exhibition 2022 official website](https://iiiexhibition.com/) (Nuxt.js)
   - media art exhibition hosted by University of Tokyo III/GSII
 - [一葉(Ichiyo)](https://iiiexhibition.com/#work4)
