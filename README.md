@@ -14,7 +14,7 @@
   - official website of a media art exhibition hosted by University of Tokyo III/GSII
   - I played a central role in the implementation, and was also actively involved in the design(about 60-70% of the whole website design).
 - [一葉(Ichiyo)](https://iiiexhibition.com/log/i3e24#work4)
-  - media art
+  - media artwork
   - exhibited as a part of iii Exhibition 2022, with four members
 - [東大×ナゾトキ×ゲームブック　ハテナ王国の冒険](https://www.froebel-kan.co.jp/book/detail/9784577049761/)
   - game book published by Froebel-Kan Co.,Ltd
