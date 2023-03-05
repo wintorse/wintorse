@@ -8,11 +8,17 @@
 - AgriAR (Pilot System)
   - AR system that visualize the current growth of your greenhouse plants, and show a desirable plant sample immersively in 3D
   - Microsoft HoloLens 2, Unity
-  - as my Senior thesis
-- [iii Exhibition 2022 official website](https://iiiexhibition.com/) (Nuxt.js)
-  - media art exhibition hosted by University of Tokyo III/GSII
-- [一葉(Ichiyo)](https://iiiexhibition.com/#work4)
+  - As my Senior thesis, I conducted needs analysis and implemented a prototype system.
+  - This research was orally presented at [Japan Geoscience Union Meeting 2022(日本地球惑星科学連合2022年大会)](https://www.jpgu.org/meeting_j2022/).
+- [iii Exhibition 2022 official website](https://iiiexhibition.com/log/i3e24) (Nuxt.js)
+  - official website of a media art exhibition hosted by University of Tokyo III/GSII
+  - I played a central role in the implementation, and was also actively involved in the design(about 60-70% of the whole website design).
+- [一葉(Ichiyo)](https://iiiexhibition.com/log/i3e24#work4)
+  - media art
   - exhibited as a part of iii Exhibition 2022, with four members
+- [東大×ナゾトキ×ゲームブック　ハテナ王国の冒険](https://www.froebel-kan.co.jp/book/detail/9784577049761/)
+  - game book published by Froebel-Kan Co.,Ltd
+  - I was engaged in making story structure and creating some riddles for children.
 
 ## GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats-theta-vert.vercel.app/api?username=wintorse&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
@@ -51,6 +57,9 @@
   </a>
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
+  </a>
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="tensorflow" width="40" height="40"/>
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
