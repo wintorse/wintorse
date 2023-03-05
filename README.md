@@ -2,7 +2,7 @@
 
 ## About wintorse
 - Graduate school student @ UTokyo GSII
-- Interested in data visualization, AR, AI, IoT
+- Interested in data visualization, AR, AI, and IoT
 
 ## Works
 - AgriAR (Pilot System)
