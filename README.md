@@ -37,6 +37,9 @@
 - game book published by Froebel-Kan Co.,Ltd
 - I was engaged in making story structure and creating some riddles for children.
 
+<br>
+<br>
+
 ## GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats-theta-vert.vercel.app/api?username=wintorse&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
