@@ -7,28 +7,35 @@
 ## Works
 <img src="https://user-images.githubusercontent.com/80797789/223934771-cbd60af9-3ea3-43a8-88db-700fa9930aca.jpg" width="40%" />
 
-- AgriAR (Pilot System)
-  - AR system that visualize the current growth of your greenhouse plants, and show a desirable plant sample immersively in 3D
-  - Microsoft HoloLens 2, Unity
-  - As my Senior thesis, I conducted needs analysis and implemented a prototype system.
-  - This research was orally presented at [Japan Geoscience Union Meeting 2022(日本地球惑星科学連合2022年大会)](https://www.jpgu.org/meeting_j2022/).
+**AgriAR (Pilot System)**
+- AR system that visualize the current growth of your greenhouse plants, and show a desirable plant sample immersively in 3D
+- Microsoft HoloLens 2, Unity
+- As my Senior thesis, I conducted needs analysis and implemented a prototype system.
+- This research was orally presented at [Japan Geoscience Union Meeting 2022(日本地球惑星科学連合2022年大会)](https://www.jpgu.org/meeting_j2022/).
 
+<br>
+<br>
 <img src="https://user-images.githubusercontent.com/80797789/223939615-5c9fb5f3-8bac-4d47-ac02-08e1fa4078e0.jpg" width="40%" />
 <img src="https://user-images.githubusercontent.com/80797789/223939636-8edf9c13-db85-4212-a31b-86032aa1c7ad.jpg" width="40%" />
 
-- [iii Exhibition 2022 official website](https://iiiexhibition.com/log/i3e24) (Nuxt.js)
-  - official website of a media art exhibition hosted by University of Tokyo III/GSII
-  - I played a central role in the implementation, and was also actively involved in the design(about 60-70% of the whole website design).
+**[iii Exhibition 2022 official website](https://iiiexhibition.com/log/i3e24)** (Nuxt.js)
+- official website of a media art exhibition hosted by University of Tokyo III/GSII
+- I played a central role in the implementation, and was also actively involved in the design(about 60-70% of the whole website design).
 
+<br>
+<br>
 <img src="https://user-images.githubusercontent.com/80797789/223937328-7763f57e-fd2e-4c96-96c7-8f2b75436d2a.jpeg" width="20%" />
 
-- [一葉(Ichiyo)](https://iiiexhibition.com/log/i3e24#work4) (Nuxt.js, firebase)
-  - media artwork
-  - exhibited as a part of iii Exhibition 2022, with four members
+**[一葉(Ichiyo)](https://iiiexhibition.com/log/i3e24#work4)** (Nuxt.js, firebase)
+- media artwork
+- exhibited as a part of iii Exhibition 2022, with four members
 
-- [東大×ナゾトキ×ゲームブック　ハテナ王国の冒険](https://www.froebel-kan.co.jp/book/detail/9784577049761/)
-  - game book published by Froebel-Kan Co.,Ltd
-  - I was engaged in making story structure and creating some riddles for children.
+<br>
+<br>
+
+**[東大×ナゾトキ×ゲームブック　ハテナ王国の冒険](https://www.froebel-kan.co.jp/book/detail/9784577049761/)**
+- game book published by Froebel-Kan Co.,Ltd
+- I was engaged in making story structure and creating some riddles for children.
 
 ## GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats-theta-vert.vercel.app/api?username=wintorse&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
