@@ -22,7 +22,7 @@
 
 <img src="https://user-images.githubusercontent.com/80797789/223937328-7763f57e-fd2e-4c96-96c7-8f2b75436d2a.jpeg" width="20%" />
 
-- [一葉(Ichiyo)](https://iiiexhibition.com/log/i3e24#work4)
+- [一葉(Ichiyo)](https://iiiexhibition.com/log/i3e24#work4) (Nuxt.js, firebase)
   - media artwork
   - exhibited as a part of iii Exhibition 2022, with four members
 
