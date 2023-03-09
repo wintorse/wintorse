@@ -5,29 +5,30 @@
 - Interested in data visualization, AR, AI, and IoT
 
 ## Works
-<img src="https://user-images.githubusercontent.com/80797789/223934771-cbd60af9-3ea3-43a8-88db-700fa9930aca.jpg" width="40%" />
+<img src="https://user-images.githubusercontent.com/80797789/223946898-59aa360d-aec7-468e-9c43-b6118cd24097.jpg" width="80%" />
 
-**AgriAR (Pilot System)**
-- AR system that visualize the current growth of your greenhouse plants, and show a desirable plant sample immersively in 3D
+**AgriAR**
+- AR pilot system that visualize the current growth of your greenhouse plants, and show a desirable plant sample immersively in 3D
 - Microsoft HoloLens 2, Unity
 - As my Senior thesis, I conducted needs analysis and implemented a prototype system.
 - This research was orally presented at [Japan Geoscience Union Meeting 2022(日本地球惑星科学連合2022年大会)](https://www.jpgu.org/meeting_j2022/).
 
 <br>
 <br>
-<img src="https://user-images.githubusercontent.com/80797789/223939615-5c9fb5f3-8bac-4d47-ac02-08e1fa4078e0.jpg" width="40%" />
-<img src="https://user-images.githubusercontent.com/80797789/223939636-8edf9c13-db85-4212-a31b-86032aa1c7ad.jpg" width="40%" />
+<img alt="iii Exhibition 2022 website" src="https://user-images.githubusercontent.com/80797789/223945429-d36bc409-7695-4c55-8b6d-35980df0f693.jpg" width="80%" />
 
-**[iii Exhibition 2022 official website](https://iiiexhibition.com/log/i3e24)** (Nuxt.js)
+**[iii Exhibition 2022 official website](https://iiiexhibition.com/log/i3e24)**
 - official website of a media art exhibition hosted by University of Tokyo III/GSII
+- made with Nuxt.js
 - I played a central role in the implementation, and was also actively involved in the design(about 60-70% of the whole website design).
 
 <br>
 <br>
 <img src="https://user-images.githubusercontent.com/80797789/223937328-7763f57e-fd2e-4c96-96c7-8f2b75436d2a.jpeg" width="20%" />
 
-**[一葉(Ichiyo)](https://iiiexhibition.com/log/i3e24#work4)** (Nuxt.js, firebase)
+**[一葉(Ichiyo)](https://iiiexhibition.com/log/i3e24#work4)**
 - media artwork
+- made with Nuxt.js and firebase
 - exhibited as a part of iii Exhibition 2022, with four members
 
 <br>
