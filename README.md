@@ -5,17 +5,29 @@
 - Interested in data visualization, AR, AI, and IoT
 
 ## Works
+<img src="https://user-images.githubusercontent.com/80797789/223934771-cbd60af9-3ea3-43a8-88db-700fa9930aca.jpg" width="40%" />
+
 - AgriAR (Pilot System)
   - AR system that visualize the current growth of your greenhouse plants, and show a desirable plant sample immersively in 3D
   - Microsoft HoloLens 2, Unity
   - As my Senior thesis, I conducted needs analysis and implemented a prototype system.
   - This research was orally presented at [Japan Geoscience Union Meeting 2022(日本地球惑星科学連合2022年大会)](https://www.jpgu.org/meeting_j2022/).
+
+<img src="https://user-images.githubusercontent.com/80797789/223936635-c67f4138-a144-4c94-a898-083606efa5ec.png" width="40%" />
+<img src="https://user-images.githubusercontent.com/80797789/223937168-20f7d745-9a45-4528-a62b-6bf652e38cbb.png" width="40%" />
+
 - [iii Exhibition 2022 official website](https://iiiexhibition.com/log/i3e24) (Nuxt.js)
   - official website of a media art exhibition hosted by University of Tokyo III/GSII
   - I played a central role in the implementation, and was also actively involved in the design(about 60-70% of the whole website design).
+
+<img src="https://user-images.githubusercontent.com/80797789/223937328-7763f57e-fd2e-4c96-96c7-8f2b75436d2a.jpeg" width="20%" />
+
 - [一葉(Ichiyo)](https://iiiexhibition.com/log/i3e24#work4)
   - media artwork
   - exhibited as a part of iii Exhibition 2022, with four members
+
+<img src="https://user-images.githubusercontent.com/80797789/223938070-39d7c37b-3291-4b88-8bbf-a54d21bf874c.jpg" width="20%" />
+
 - [東大×ナゾトキ×ゲームブック　ハテナ王国の冒険](https://www.froebel-kan.co.jp/book/detail/9784577049761/)
   - game book published by Froebel-Kan Co.,Ltd
   - I was engaged in making story structure and creating some riddles for children.
