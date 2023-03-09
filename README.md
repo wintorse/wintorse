@@ -13,8 +13,8 @@
   - As my Senior thesis, I conducted needs analysis and implemented a prototype system.
   - This research was orally presented at [Japan Geoscience Union Meeting 2022(日本地球惑星科学連合2022年大会)](https://www.jpgu.org/meeting_j2022/).
 
-<img src="https://user-images.githubusercontent.com/80797789/223936635-c67f4138-a144-4c94-a898-083606efa5ec.png" width="40%" />
-<img src="https://user-images.githubusercontent.com/80797789/223937168-20f7d745-9a45-4528-a62b-6bf652e38cbb.png" width="40%" />
+<img src="https://user-images.githubusercontent.com/80797789/223939615-5c9fb5f3-8bac-4d47-ac02-08e1fa4078e0.jpg" width="40%" />
+<img src="https://user-images.githubusercontent.com/80797789/223939636-8edf9c13-db85-4212-a31b-86032aa1c7ad.jpg" width="40%" />
 
 - [iii Exhibition 2022 official website](https://iiiexhibition.com/log/i3e24) (Nuxt.js)
   - official website of a media art exhibition hosted by University of Tokyo III/GSII
@@ -25,8 +25,6 @@
 - [一葉(Ichiyo)](https://iiiexhibition.com/log/i3e24#work4) (Nuxt.js, firebase)
   - media artwork
   - exhibited as a part of iii Exhibition 2022, with four members
-
-<img src="https://user-images.githubusercontent.com/80797789/223938070-39d7c37b-3291-4b88-8bbf-a54d21bf874c.jpg" width="20%" />
 
 - [東大×ナゾトキ×ゲームブック　ハテナ王国の冒険](https://www.froebel-kan.co.jp/book/detail/9784577049761/)
   - game book published by Froebel-Kan Co.,Ltd
