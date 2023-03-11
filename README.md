@@ -29,6 +29,7 @@
 **[一葉(Ichiyo)](https://iiiexhibition.com/log/i3e24#work4)**
 - media artwork
 - made with Nuxt.js and firebase
+- Web UI: https://youtu.be/hZ9n2qEj1pA
 - exhibited as a part of iii Exhibition 2022, with four members
 
 <br>
