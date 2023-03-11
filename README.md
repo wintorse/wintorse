@@ -26,6 +26,8 @@
 <br>
 <img src="https://user-images.githubusercontent.com/80797789/224468269-d05ce70f-f12d-4cde-87b1-460e003a0041.jpg" width="80%" />
 
+<img src="https://user-images.githubusercontent.com/80797789/224471199-c71e0680-877c-4e3f-aea3-2b3f4ed73b62.png" width="50%" />
+
 
 **[一葉(Ichiyo)](https://iiiexhibition.com/log/i3e24#work4)**(2022)
 - media artwork
