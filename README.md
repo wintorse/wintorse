@@ -31,7 +31,7 @@
 - media artwork
 - 2D code on leaves: laser-printed
 - Web app: made with Nuxt.js and firebase
-- Web UI: https://youtu.be/hZ9n2qEj1pA
+- Web UI demo: https://youtu.be/hZ9n2qEj1pA
 - exhibited as a part of iii Exhibition 2022, with four members
 
 <br>
