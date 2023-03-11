@@ -7,7 +7,7 @@
 ## Works
 <img src="https://user-images.githubusercontent.com/80797789/223946898-59aa360d-aec7-468e-9c43-b6118cd24097.jpg" width="80%" />
 
-**AgriAR**
+**AgriAR**(2021)
 - AR pilot system that visualize the current growth of your greenhouse plants, and show a desirable plant sample immersively in 3D
 - Microsoft HoloLens 2, Unity
 - As my Senior thesis, I conducted needs analysis and implemented a prototype system.
@@ -17,25 +17,27 @@
 <br>
 <img alt="iii Exhibition 2022 website" src="https://user-images.githubusercontent.com/80797789/223945429-d36bc409-7695-4c55-8b6d-35980df0f693.jpg" width="80%" />
 
-**[iii Exhibition 2022 official website](https://iiiexhibition.com/log/i3e24)**
+**[iii Exhibition 2022 official website](https://iiiexhibition.com/log/i3e24)**(2022)
 - official website of a media art exhibition hosted by University of Tokyo III/GSII
 - made with Nuxt.js
 - I played a central role in the implementation, and was also actively involved in the design(about 60-70% of the whole website design).
 
 <br>
 <br>
-<img src="https://user-images.githubusercontent.com/80797789/223937328-7763f57e-fd2e-4c96-96c7-8f2b75436d2a.jpeg" width="20%" />
+<img src="https://user-images.githubusercontent.com/80797789/224468269-d05ce70f-f12d-4cde-87b1-460e003a0041.jpg" width="80%" />
 
-**[一葉(Ichiyo)](https://iiiexhibition.com/log/i3e24#work4)**
+
+**[一葉(Ichiyo)](https://iiiexhibition.com/log/i3e24#work4)**(2022)
 - media artwork
-- made with Nuxt.js and firebase
+- 2D code on leaves: laser-printed
+- Web app: made with Nuxt.js and firebase
 - Web UI: https://youtu.be/hZ9n2qEj1pA
 - exhibited as a part of iii Exhibition 2022, with four members
 
 <br>
 <br>
 
-**[東大×ナゾトキ×ゲームブック　ハテナ王国の冒険](https://www.froebel-kan.co.jp/book/detail/9784577049761/)**
+**[東大×ナゾトキ×ゲームブック　ハテナ王国の冒険](https://www.froebel-kan.co.jp/book/detail/9784577049761/)**(2020-2021)
 - game book published by Froebel-Kan Co.,Ltd
 - I was engaged in making story structure and creating some riddles for children.
 
