@@ -25,7 +25,9 @@
 <br>
 <br>
 <img src="https://user-images.githubusercontent.com/80797789/224468269-d05ce70f-f12d-4cde-87b1-460e003a0041.jpg" width="80%" />
-<img src="https://user-images.githubusercontent.com/80797789/224471199-c71e0680-877c-4e3f-aea3-2b3f4ed73b62.png" width="50%" />
+
+<img src="https://user-images.githubusercontent.com/80797789/225132632-113cf1b1-522e-4efd-8458-05901fa80aec.jpg" width="50%" />
+
 
 **[一葉(Ichiyo)](https://iiiexhibition.com/log/i3e24#work4)**(2022)
 - media artwork
@@ -36,7 +38,8 @@
 
 <br>
 <br>
-<img src="https://user-images.githubusercontent.com/80797789/225117732-cbc7632e-54ed-457b-bda7-da1a9264ba36.png" width="55%" />
+<img src="https://user-images.githubusercontent.com/80797789/225132502-d3bf77c2-6b17-4cd6-bd97-7de1e166ecf9.jpg" width="55%" />
+
 
 **[近見知新聞解読依頼](https://anothervision.tokyo/contents/details/chikamichi_shimbun)**(2019)
 - a take-home riddles kit（持ち帰り謎） that is packed in a set of one copy that resembles an actual newspaper
