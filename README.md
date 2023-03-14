@@ -15,7 +15,7 @@
 
 <br>
 <br>
-<img alt="iii Exhibition 2022 website" src="https://user-images.githubusercontent.com/80797789/223945429-d36bc409-7695-4c55-8b6d-35980df0f693.jpg" width="80%" />
+<img alt="iii Exhibition 2022 official website" src="https://user-images.githubusercontent.com/80797789/223945429-d36bc409-7695-4c55-8b6d-35980df0f693.jpg" width="80%" />
 
 **[iii Exhibition 2022 official website](https://iiiexhibition.com/log/i3e24)**(2022)
 - official website of a media art exhibition hosted by University of Tokyo III/GSII
@@ -25,9 +25,7 @@
 <br>
 <br>
 <img src="https://user-images.githubusercontent.com/80797789/224468269-d05ce70f-f12d-4cde-87b1-460e003a0041.jpg" width="80%" />
-
 <img src="https://user-images.githubusercontent.com/80797789/224471199-c71e0680-877c-4e3f-aea3-2b3f4ed73b62.png" width="50%" />
-
 
 **[一葉(Ichiyo)](https://iiiexhibition.com/log/i3e24#work4)**(2022)
 - media artwork
@@ -38,10 +36,20 @@
 
 <br>
 <br>
+<img src="https://user-images.githubusercontent.com/80797789/225117732-cbc7632e-54ed-457b-bda7-da1a9264ba36.png" width="55%" />
+
+**[近見知新聞解読依頼](https://anothervision.tokyo/contents/details/chikamichi_shimbun)**(2019)
+- a take-home riddles kit（持ち帰り謎） that is packed in a set of one copy that resembles an actual newspaper
+- created with some members of AnotherVision（東京大学謎解き制作集団AnotherVision）
+- on sale as of 2023
+
+<br>
+<br>
 
 **[東大×ナゾトキ×ゲームブック　ハテナ王国の冒険](https://www.froebel-kan.co.jp/book/detail/9784577049761/)**(2020-2021)
 - game book published by Froebel-Kan Co.,Ltd
 - I was engaged in making story structure and creating some riddles for children.
+
 
 <br>
 <br>
