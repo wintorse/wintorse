@@ -11,7 +11,7 @@
 - AR pilot system that visualize the current leaf amount(LAI) of your greenhouse plants and existence of pests, and show a desirable plant sample immersively in 3D
 - Microsoft HoloLens 2, Unity
 - As my Senior thesis, I conducted needs analysis and implemented a prototype system.
-- This research was orally presented at [Japan Geoscience Union Meeting 2022(日本地球惑星科学連合2022年大会)](https://www.jpgu.org/meeting_j2022/) and [Visws2022(可視化情報学会第5回ビジュアリゼーションワークショップ](https://www.vsj.jp/visws2022/).
+- This research was orally presented at [Japan Geoscience Union Meeting 2022(日本地球惑星科学連合2022年大会)](https://www.jpgu.org/meeting_j2022/) and [Visws2022(可視化情報学会第5回ビジュアリゼーションワークショップ)](https://www.vsj.jp/visws2022/).
 
 <br>
 <br>
