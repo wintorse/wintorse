@@ -1,17 +1,17 @@
 # wintorse
 
 ## About wintorse
-- Graduate school student @ UTokyo GSII
+- Master's student at the University of Tokyo GSII
 - Interested in data visualization, AR, AI, and IoT
 
 ## Works
 <img src="https://user-images.githubusercontent.com/80797789/223946898-59aa360d-aec7-468e-9c43-b6118cd24097.jpg" width="80%" />
 
 **AgriAR**(2021)
-- AR pilot system that visualize the current growth of your greenhouse plants, and show a desirable plant sample immersively in 3D
+- AR pilot system that visualize the current leaf amount(LAI) of your greenhouse plants and existence of pests, and show a desirable plant sample immersively in 3D
 - Microsoft HoloLens 2, Unity
 - As my Senior thesis, I conducted needs analysis and implemented a prototype system.
-- This research was orally presented at [Japan Geoscience Union Meeting 2022(日本地球惑星科学連合2022年大会)](https://www.jpgu.org/meeting_j2022/).
+- This research was orally presented at [Japan Geoscience Union Meeting 2022(日本地球惑星科学連合2022年大会)](https://www.jpgu.org/meeting_j2022/) and　[Visws2022(可視化情報学会第5回ビジュアリゼーションワークショップ](https://www.vsj.jp/visws2022/).
 
 <br>
 <br>
