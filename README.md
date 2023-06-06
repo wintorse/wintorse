@@ -17,8 +17,9 @@
 <br>
 <img alt="iii Exhibition 2022 official website" src="https://user-images.githubusercontent.com/80797789/223945429-d36bc409-7695-4c55-8b6d-35980df0f693.jpg" width="80%" />
 
-**[iii Exhibition 2022 official website](https://iiiexhibition.com/log/i3e24)**(2022)
+**[iii Exhibition 2022 official website](https://archive.iiiexhibition.com/log/i3e24)**(2022)
 - official website of a media art exhibition hosted by University of Tokyo III/GSII
+- more info: https://www.iii.u-tokyo.ac.jp/research/221213iiiexhibition
 - made with Nuxt.js
 - I played a central role in the implementation, and was also actively involved in the design(about 60-70% of the whole website design).
 
@@ -29,7 +30,7 @@
 <img src="https://user-images.githubusercontent.com/80797789/225132632-113cf1b1-522e-4efd-8458-05901fa80aec.jpg" width="50%" />
 
 
-**[一葉(Ichiyo)](https://iiiexhibition.com/log/i3e24#work4)**(2022)
+**[一葉(Ichiyo)](https://archive.iiiexhibition.com/log/i3e24#work4)**(2022)
 - media artwork
 - 2D code on leaves: laser-printed
 - Web app: made with Nuxt.js and firebase
