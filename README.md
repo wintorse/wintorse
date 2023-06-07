@@ -36,6 +36,7 @@
 - Web app: made with Nuxt.js and firebase
 - Web UI demo: https://youtu.be/hZ9n2qEj1pA
 - exhibited as a part of iii Exhibition 2022, with four members
+- featured in [美術手帖](https://bijutsutecho.com/magazine/news/exhibition/26372)
 
 <br>
 <br>
