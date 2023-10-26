@@ -32,11 +32,12 @@
 
 **[一葉(Ichiyo)](https://archive.iiiexhibition.com/log/i3e24#work4)**(2022)
 - media artwork
-- 2D code on leaves: laser-printed
+- 2D code on leaves: laser engraved
 - Web app: made with Nuxt.js and firebase
 - Web UI demo: https://youtu.be/hZ9n2qEj1pA
 - exhibited as a part of iii Exhibition 2022, with four members
 - featured in [美術手帖](https://bijutsutecho.com/magazine/news/exhibition/26372)
+- got an Honorable Mention at [GOOD DESIGN NEW HOPE AWARD 2023](https://newhope.g-mark.org/award/2023/23NHA040011.html)
 
 <br>
 <br>
