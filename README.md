@@ -62,7 +62,7 @@
 <br>
 
 ## GitHub Stats
-[![Anurag's GitHub stats](github-readme-stats-git-master-wintorse.vercel.app)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-wintorse.vercel.app/api?username=wintorse&theme=onedark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Languages and Tools
 <p align="left"> 
