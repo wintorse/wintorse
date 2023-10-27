@@ -1,7 +1,7 @@
 # wintorse
 
 ## Portfolio site
-[https://wintorse.vercel.app/]
+https://wintorse.vercel.app/
 
 ## About wintorse
 - Master's student at the University of Tokyo GSII
