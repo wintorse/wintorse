@@ -47,8 +47,8 @@
 **[近見知新聞解読依頼](https://anothervision.tokyo/contents/details/chikamichi_shimbun)**(2019)
 - a take-home riddles kit（持ち帰り謎） that is packed in a set of one copy that resembles an actual newspaper
 - created with some members of AnotherVision（東京大学謎解き制作集団AnotherVision）
-- purchased by 3500+ people
-- on sale as of 2023
+- purchased by 4000+ people
+- on sale in [booth.pm](https://anothervision.booth.pm/items/1472887) as of 2023
 
 <br>
 <br>
