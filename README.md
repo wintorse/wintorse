@@ -56,8 +56,8 @@ https://wintorse.vercel.app/
 <br>
 <br>
 
-**[東大×ナゾトキ×ゲームブック　ハテナ王国の冒険](https://www.froebel-kan.co.jp/book/detail/9784577049761/)**(2020-2021)
-- game book published by Froebel-Kan Co.,Ltd
+**[東大×ナゾトキ×ゲームブック　ハテナ王国の冒険 〜竜と魔法の書〜](https://book.froebel-kan.co.jp/book/detail/9784577049761)**(2020-2021)
+- gamebook supervised by out team and published by Froebel-Kan Co.,Ltd
 - I was engaged in making story structure and creating some riddles for children.
 
 
