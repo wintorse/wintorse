@@ -8,7 +8,7 @@
 
 ## About wintorse
 - Master's student at the University of Tokyo GSII
-- Interested in data visualization, AR, AI, and IoT
+- Interested in data visualization, human-computer interaction, AR, AI, and IoT
 
 ## Works
 <img src="https://user-images.githubusercontent.com/80797789/223946898-59aa360d-aec7-468e-9c43-b6118cd24097.jpg" width="80%" />
