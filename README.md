@@ -103,8 +103,8 @@
 <br>
 
 ## GitHub Stats
-
-[![wintorse's GitHub stats](github-readme-stats-theta-vert.vercel.app/api?username=wintorse&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<img alt="Top Langs" width="44.5%" src="https://github-readme-stats-theta-vert.vercel.app/api/top-langs/?username=wintorse&count_private=true&layout=compact&show_icons=true" />
+<img alt="github stats" width="53.3%" src="https://github-readme-stats-theta-vert.vercel.app/api?username=wintorse&count_private=true&show_icons=true" />
 
 ## Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=html,css,react,nextjs,vuejs,nuxtjs,py,cpp,nodejs,kotlin,mysql,r,matlab,git,docker,firebase,unity,arduino,tensorflow,figma)](https://skillicons.dev)
