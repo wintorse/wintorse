@@ -4,8 +4,13 @@
 - Webapp engineer
 - Interested in data visualization, human-computer interaction, AI, and IoT
 
-## Portfolio Website
-**https://wintorse.vercel.app/**
+## Portfolio
+https://wintorse.vercel.app/
+
+<a href="https://wintorse.vercel.app/" >
+  <img width=360 alt="github stats" src="https://github.com/user-attachments/assets/9aadf8ce-c0f2-499a-b407-b2f2377fd6ea" />
+
+</a>
 
 ## GitHub Stats
 <img alt="github stats" src="https://github-readme-stats-clone-phi.vercel.app/api?username=wintorse&count_private=true&show_icons=true&theme=react" />
